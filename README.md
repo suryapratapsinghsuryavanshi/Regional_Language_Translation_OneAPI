@@ -24,3 +24,11 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+
+## Demo Video
+[Video Url](https://drive.google.com/file/d/1Wpf-Z4UGESbq8A76cCZ8RY2ZxzhSWSvB/view?usp=sharing
+)
+
+## PPT
+[PPT Url](https://github.com/suryapratapsinghsuryavanshi/Regional_Language_Translation_OneAPI/blob/main/RegionalLanguageTranslator_oneAPI.ppt
+)
